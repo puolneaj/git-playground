@@ -4,8 +4,6 @@ Let's add a second line to this repository !
 
 Add a new line from the local repository
 
-Let's try git pull now!
-
 This will had ...
 
 This is the line of Feature_branch_name
